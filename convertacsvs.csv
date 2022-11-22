@@ -1,5 +1,15 @@
-A,B,C,D
-1,2,3,4
-s,d,c,z
-g,s,a,a
-g,d,a,z
+Name,PClass,Age,Sex,Survived,SexCode
+"Allen, Miss Elisabeth Walton",1st,29.0,female,1,1
+"Allison, Miss Helen Loraine",1st,2.0,female,0,1
+"Allison, Mr Hudson Joshua Creighton",1st,30.0,male,0,0
+"Allison, Mrs Hudson JC (Bessie Waldo Daniels)",1st,25.0,female,0,1
+"Allison, Master Hudson Trevor",1st,0.92,male,1,0
+"Anderson, Mr Harry",1st,47.0,male,1,0
+"Andrews, Miss Kornelia Theodosia",1st,63.0,female,1,1
+"Andrews, Mr Thomas, jr",1st,39.0,male,0,0
+"Appleton, Mrs Edward Dale (Charlotte Lamson)",1st,58.0,female,1,1
+"Artagaveytia, Mr Ramon",1st,71.0,male,0,0
+"Astor, Colonel John Jacob",1st,47.0,male,0,0
+"Astor, Mrs John Jacob (Madeleine Talmadge Force)",1st,19.0,female,1,1
+"Aubert, Mrs Leontine Pauline",1st,,female,1,1
+"Barkworth, Mr Algernon H",1st,,male,1,0
